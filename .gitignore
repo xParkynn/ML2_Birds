@@ -1,4 +1,3 @@
-birdclef-2025.zip
-train_audio/*
-train_soundscapes/*
-
+data/*
+!data/label_to_name.json
+!data/processed_data.csv
